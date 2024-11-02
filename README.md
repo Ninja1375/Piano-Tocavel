@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo:**
+
+**[Piano Virtual](https://ninja1375.github.io/Piano-Tocavel/)**
+
 Este projeto é um **Piano Virtual** interativo, desenvolvido com HTML, CSS e JavaScript, projetado para oferecer uma experiência visual e sonora realista. A interface simula um piano acústico, permitindo que o usuário toque notas individualmente ou componha melodias através de cliques ou teclas do teclado.
 
 ## Estrutura e Design: ##

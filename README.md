@@ -6,6 +6,12 @@ Este projeto é um **Piano Virtual** interativo, desenvolvido com HTML, CSS e Ja
 
 **CSS:** Aplica estilos para simular um efeito 3D com sombreamento e gradientes, diferenciando as teclas brancas e pretas e criando uma sensação de profundidade e realismo. Também ajusta o layout para diferentes tamanhos de tela, garantindo uma experiência responsiva.
 
-FuncionalidadesInteração Sonora: Cada tecla do piano é mapeada para um som específico, reproduzido em tempo real quando o usuário clica na tecla ou pressiona a tecla do teclado correspondente.Controles Personalizáveis:Volume: O usuário pode ajustar o volume geral do piano.Exibição de Notas: Uma opção permite visualizar as notas ou letras correspondentes em cada tecla, ideal para estudo e prática.Responsividade: Adaptável a qualquer dispositivo, o piano ajusta automaticamente o tamanho e espaçamento das teclas para garantir usabilidade em ecrãs de diferentes dimensões.
+**JavaScrip:** Este permite a interação sonora, cada tecla do piano é mapeada para um som específico, reproduzido em tempo real quando o usuário clica na tecla ou pressiona a tecla do teclado correspondente.
+
+## Controles Personalizáveis: ##
+
+**Volume:** O usuário pode ajustar o volume geral do piano.
+
+**Exibição de Notas:** Uma opção permite visualizar as notas ou letras correspondentes em cada tecla, ideal para estudo e prática.
 
 Este piano virtual é uma plataforma prática para explorar notas e acordes, sendo ideal para iniciantes e entusiastas da música.

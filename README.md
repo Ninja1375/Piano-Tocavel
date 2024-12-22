@@ -1,4 +1,4 @@
-**Veja o projeto ao vivo:*
+**Veja o projeto ao vivo:**
 
 **[Piano Virtual](https://ninja1375.github.io/Piano-Tocavel/)**
 
